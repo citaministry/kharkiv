@@ -12,7 +12,7 @@
 .brand-logo, 
 .default-logo, 
 .responsive-logo {
-    max-width: 128px;
+    max-width: 285px;
     transition: all 0.4s;
     position: relative;
     margin-right: 35px;
@@ -26,7 +26,7 @@
 @media (min-width: 992px) {
   .site-navbar {
     flex-flow: row nowrap;
-    justify-content: flex-start;
+    justify-content: space-between;
   }
 }
 
@@ -107,7 +107,7 @@
 @media (min-width: 992px) {
   .site-header--menu-center .menu-block {
     margin-left: auto;
-    margin-right: auto;
+    /* margin-right: auto; */
   }
 }
 
@@ -845,9 +845,9 @@
     padding-bottom: 20px;
   } */
   .site-header--menu-center .menu-block-wrapper {
-    position: absolute !important;
+    /* position: absolute !important;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translateX(-50%); */
   }
 }
 

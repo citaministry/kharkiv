@@ -3927,7 +3927,7 @@ button#aximo-hero-subscription-btn:hover .aximo-label-up {
 .aximo-hero-section4 {
   margin: 0 50px;
   border-radius: 20px;
-  margin-top: 80px;
+  margin-top: 105px;
   padding: 130px 0 120px;
   background-size: cover;
   background-position: center;
@@ -3935,14 +3935,14 @@ button#aximo-hero-subscription-btn:hover .aximo-label-up {
 @media (max-width: 991px) {
   .aximo-hero-section4 {
     margin: 0 30px;
-    margin-top: 80px;
+    margin-top: 105px;
     padding: 100px 0 90px;
   }
 }
 @media (max-width: 767px) {
   .aximo-hero-section4 {
     margin: 0 12px;
-    margin-top: 80px;
+    margin-top: 105px;
     padding: 80px 0 70px;
   }
 }
